@@ -1,5 +1,5 @@
 # Teste Repos
 
-![./martinez_card.jpg](David Martinez)
+![David Martinez](https://github.com/mrcs-abr/teste-repos/blob/master/martinez_card.jpg)
 
 Este repositório serve como exemplo para meu aprendizado de Git
