@@ -1,6 +1,6 @@
 # Learning Git
 
-![David Martinez](https://github.com/mrcs-abr/teste-repos/blob/master/card_martinez.jpg)
+![David Martinez](https://github.com/mrcs-abr/teste-repos/blob/master/martinez_card.jpg)
 
 ## Basic Commands
 
