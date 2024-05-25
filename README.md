@@ -26,7 +26,7 @@
 - Clones an existing repository 
 
 **git pull**
-- Get changes from another repository and merge with your current repository
+- Retrieve changes from another repository and merge with your current repository
 
 **git log**
 - Shows the commits log
